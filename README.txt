@@ -1,1 +1,1 @@
-the contents of the Assignments directory is : README.txt
+making some changes into readme.txt file
