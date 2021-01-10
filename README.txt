@@ -1,0 +1,1 @@
+the contents of the Assignments directory is : README.txt
